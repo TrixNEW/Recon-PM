@@ -1,6 +1,6 @@
 # AutoRecon
 
-**AutoReconnectPM** is a PocketMine-MP 5.x plugin that ensures a smooth player experience by automatically reconnecting players to a server when the current one shuts down
+**Recon** is a PocketMine-MP 5.x plugin that ensures a smooth player experience by automatically reconnecting players to a server when the current one shuts down
 
 ## To the person reviewing this plugin
 - Please unban me from pocketmine discord, i deeply regret my actions. PLZ UNBAN
