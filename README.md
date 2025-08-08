@@ -3,7 +3,7 @@
 **AutoReconnectPM** is a PocketMine-MP 5.x plugin that ensures a smooth player experience by automatically reconnecting players to a server when the current one shuts down
 
 ## To the person reviewing this plugin
-- Please unban me from pocketmine discord, i deeply regret my actions and i want to be unbanned plz
+- Please unban me from pocketmine discord, i deeply regret my actions. PLZ UNBAN
 - (discord @trix.pro)
 
 ## 🔧 Features
