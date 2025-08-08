@@ -1,0 +1,14 @@
+# Configuration File
+
+# Automatically reconnect players to the same server
+auto-reconnect: true
+
+# Enable debug logging for notices
+debug-messages: true
+
+# Server query settings (only used if auto-reconnect is disabled)
+query:
+  # Target server IP address to redirect players to (fallback server)
+  ip-address: sukomc.net
+  # Target server port
+  port: 19132

@@ -1,0 +1,6 @@
+name: Recon
+main: trix\recon\Source
+version: 1.0.0
+api: 5.0.0
+author: Trix
+description: Automatically reconnect players to a server on server disable
