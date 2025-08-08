@@ -4,7 +4,7 @@
 
 ## To the person reviewing this plugin
 - Please unban me from pocketmine discord, i deeply regret my actions and i want to be unbanned plz
-(discord @trix.pro)
+- (discord @trix.pro)
 
 ## 🔧 Features
 
